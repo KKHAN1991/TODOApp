@@ -13,7 +13,7 @@ return [
 			'host'      => 'localhost',
 			'database'  => 'auth',
 			'username'  => 'root',
-			'password'  => 'KhanK1991',
+			'password'  => '',
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
 			'prefix'    => '',
